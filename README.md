@@ -26,9 +26,6 @@ An early-identification web interface built to demonstrate data-driven health tr
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=switchblade-kratos&show_icons=true&theme=tokyonight&hide_border=true" alt="Switchblade Stats" />
-</p>
-
+![Switchblade's GitHub stats](https://github-readme-stats.vercel.app/api?username=switchblade-kratos&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 > *"Simplicity is the soul of efficiency."*
